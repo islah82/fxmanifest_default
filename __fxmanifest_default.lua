@@ -1,5 +1,5 @@
-fx_version "adamant"
-game "gta5"
+fx_version 'cerulean'
+game 'gta5'
 
 name 'Vrp Watermark'
 description 'Toto watermark top'
